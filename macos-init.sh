@@ -46,4 +46,13 @@ echo "${YELLOW}Installing Node and NVM...${NOCOLOR}"
 echo "${YELLOW}Installing gloabl NPM packages...${NOCOLOR}"
 echo "${YELLOW}Setting up iTerm...${NOCOLOR}"
 
+echo "${YELLOW}Be sure to sign in to the App Store and download the following:${NOCOLOR}"
+echo "${YELLOW}1Password${NOCOLOR}"
+echo "${YELLOW}Moom${NOCOLOR}"
+echo "${YELLOW}Slack${NOCOLOR}"
+echo "${YELLOW}Textual 6${NOCOLOR}"
+echo "${YELLOW}Clocks${NOCOLOR}"
+echo "${YELLOW}Simplenote${NOCOLOR}"
+echo "${YELLOW}Telegram${NOCOLOR}"
+
 echo "${GREEN}Project setup complete ... now get to work!${NOCOLOR}"
